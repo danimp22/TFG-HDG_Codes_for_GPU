@@ -79,7 +79,7 @@ def create_reference_element_tri(n_deg):
 
     # PREVIOUS LINES MAY BE WRONG, TRYING SMTH NEW BELOW:
 
-    mat_file = r"c:\Users\Usuario\Desktop\TFM\TASK 1\HDG_Poisson_Python\T1_HDG_Poisson\referenceElement\positionFeketeNodesTri2D_EZ4U.mat"
+    mat_file = r"C:\Users\justa\Desktop\Uni\TFM\TFG-HDG_Codes_for_GPU\2. Codigos\2. Python CPU\referenceElement\positionFeketeNodesTri2D_EZ4U.mat"
     data_mat = sio.loadmat(mat_file)  
     
     fekete_struct = data_mat["feketeNodesPosition"]  

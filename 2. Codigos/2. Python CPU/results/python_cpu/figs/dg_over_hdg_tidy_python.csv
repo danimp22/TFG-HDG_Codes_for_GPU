@@ -1,0 +1,3 @@
+mesh_id,degree,dofs_DG_total,dofs_HDG_total,ratio_DG_over_HDG
+mesh1,1,24,32,1
+mesh1,2,48,48,1

@@ -1,5 +1,8 @@
 [
   "obsidian-icon-folder",
   "editing-toolbar",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "dataview",
+  "obsidian-kanban",
+  "table-editor-obsidian"
 ]
